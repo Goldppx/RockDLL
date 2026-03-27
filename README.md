@@ -2,6 +2,8 @@
 
 Simple DLL injector for ReShade.
 
+![ReShade](assets/images/reshade.png)
+
 ## Usage
 
 1. Edit `config.ini`:
